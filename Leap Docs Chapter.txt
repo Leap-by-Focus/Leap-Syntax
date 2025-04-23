@@ -1,0 +1,14 @@
+Leap Docs Chapter
+
+I. Leap downloaden und einrichten
+II. Konsolenausgaben und Variablen
+III. Mathematische Operationen
+IV. Statements (If, Switch, …)
+V. Schleifen (For, While, …)
+VI. Methoden
+VII. Files (Read, Write, …)
+VIII. Collections
+IX. Debugging, Exceptions
+X. Unit Testing
+XI. Arbeiten mit Leap-AI
+XII. Abschluss Übungsaufgabe
